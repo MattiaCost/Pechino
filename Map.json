@@ -31,6 +31,17 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {"marker-color": "blue"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.40083312988281,
+          39.90209872186018
+        ]
+      }
     }
   ]
 }
